@@ -1,0 +1,20 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Archivos locales y exportaciones pesadas
+*.zip
+*.psd
+*.ai
+*.afdesign
+*.mp4
+*.mov
+
+# Secrets / configuración local
+.env
+.env.*
+!.env.example
