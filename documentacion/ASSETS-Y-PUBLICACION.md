@@ -14,9 +14,9 @@
 
 | Carpeta | Contenido | Tamaño de mesa de trabajo |
 | --- | --- | --- |
-| `dist/assets/social/instagram/` | 6 portadas de carrusel/reel | 1080 × 1350 |
-| `dist/assets/social/youtube/` | 6 miniaturas de vídeo | 1280 × 720 |
-| `dist/assets/web/` | composiciones reutilizables de muestra | SVG adaptable |
+| `dist/recursos/redes-sociales/instagram/` | 6 portadas de carrusel/reel en SVG y PNG | 1080 × 1350 |
+| `dist/recursos/redes-sociales/youtube/` | 6 miniaturas de vídeo en SVG y PNG | 1280 × 720 |
+| `dist/recursos/sitio-web/` | composiciones y capturas de la web | SVG y PNG |
 
 Los archivos son SVG para conservar el texto nítido y editable. Antes de publicar, exportar a PNG (Instagram) o JPG/PNG (YouTube).
 

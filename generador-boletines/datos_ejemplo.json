@@ -1,0 +1,86 @@
+{
+  "radar": {
+    "nombre": "Radar",
+    "etiqueta": "Para profesionales",
+    "asunto": "Tres cambios que conviene entender esta semana",
+    "entradilla": "Una muestra ficticia de cómo una newsletter puede resumir una novedad sin perder el contexto.",
+    "color_destacado": "#d7f2a1",
+    "secciones": [
+      {"titulo": "La novedad", "texto": "Aquí iría una explicación breve de una actualización, escrita con palabras claras y enlazada a su fuente original."},
+      {"titulo": "Por qué importa", "texto": "La pieza no se limita a recopilar. Sitúa lo relevante y deja claro lo que todavía no se sabe."},
+      {"titulo": "Para profundizar", "texto": "Enlace a la fuente, documento u organismo original."},
+      {"titulo": "Una pregunta útil", "texto": "¿Qué conversación debería abrir este cambio en tu equipo o con tus clientes?"}
+    ],
+    "aviso": "Las fuentes y la revisión profesional se definirían en un proyecto real."
+  },
+  "aula": {
+    "nombre": "Aula",
+    "etiqueta": "Para academias",
+    "asunto": "Una idea pequeña para seguir aprendiendo",
+    "entradilla": "Una muestra de newsletter para mantener activa la conversación entre una clase y la siguiente.",
+    "color_destacado": "#e6ddfa",
+    "secciones": [
+      {"titulo": "La idea de hoy", "texto": "Explica un concepto en pocas líneas: suficiente para despertar curiosidad, no para sustituir una lección completa."},
+      {"titulo": "Tres ejemplos", "texto": "Un caso sencillo, un caso cotidiano y un error frecuente con su explicación."},
+      {"titulo": "Reto de un minuto", "texto": "Propón una práctica corta que no necesite materiales ni preparación extra."},
+      {"titulo": "Próxima parada", "texto": "Conecta el reto con la siguiente sesión, recurso o actividad del centro."}
+    ],
+    "aviso": "El contenido final debe ser revisado por la persona docente responsable."
+  },
+  "entrena": {
+    "nombre": "Entrena",
+    "etiqueta": "Para centros deportivos",
+    "asunto": "Esta semana: menos prisa y más técnica",
+    "entradilla": "Una pauta editorial para acompañar la rutina y recordar que recuperar también forma parte.",
+    "color_destacado": "#d7f2a1",
+    "secciones": [
+      {"titulo": "Intención", "texto": "Una frase clara sobre el foco de la semana y sobre qué queremos priorizar en el entrenamiento."},
+      {"titulo": "Propuesta", "texto": "Una sesión o pauta general revisada por la persona profesional responsable."},
+      {"titulo": "Un ajuste posible", "texto": "Incluye una alternativa de menor intensidad y recuerda respetar las señales de fatiga o dolor."},
+      {"titulo": "Recuperar también cuenta", "texto": "Un recordatorio breve sobre descanso, movilidad o hidratación."}
+    ],
+    "aviso": "Este contenido no es consejo médico ni entrenamiento individualizado."
+  },
+  "idioma": {
+    "nombre": "Idioma en marcha",
+    "etiqueta": "Para estudiantes",
+    "asunto": "Una expresión que puedes usar hoy",
+    "entradilla": "Aprender un idioma también puede caber en un correo que se lee en pocos minutos.",
+    "color_destacado": "#ffd9b8",
+    "secciones": [
+      {"titulo": "Expresión", "texto": "How does that sound? Una frase útil para proponer algo y pedir una reacción."},
+      {"titulo": "Cuándo usarla", "texto": "Al plantear un plan, una idea de trabajo o una alternativa a otra persona."},
+      {"titulo": "Pruébala", "texto": "We could meet on Friday. How does that sound?"},
+      {"titulo": "Microreto", "texto": "Escribe una propuesta para la próxima semana usando la expresión."}
+    ],
+    "aviso": "Una academia puede adaptar nivel, idioma y revisión docente."
+  },
+  "equipo": {
+    "nombre": "Equipo al día",
+    "etiqueta": "Para equipos",
+    "asunto": "Lo importante de la semana, en cuatro minutos",
+    "entradilla": "Un ejemplo de lectura compartida para ordenar decisiones y próximos pasos sin ocupar el chat.",
+    "color_destacado": "#cce9e8",
+    "secciones": [
+      {"titulo": "Una prioridad", "texto": "Qué está centrando el trabajo del equipo y por qué merece atención esta semana."},
+      {"titulo": "Una decisión", "texto": "Qué se ha acordado, quién se responsabiliza y dónde ampliar la información."},
+      {"titulo": "Un reconocimiento", "texto": "Un agradecimiento concreto y autorizado a una persona o colaboración."},
+      {"titulo": "En la agenda", "texto": "Fechas, hitos o recordatorios útiles en los canales internos aprobados."}
+    ],
+    "aviso": "No incluir información confidencial en listas, canales o herramientas no autorizadas."
+  },
+  "pausa": {
+    "nombre": "Pausa",
+    "etiqueta": "Para personas curiosas",
+    "asunto": "Una lectura para guardar un poco de espacio",
+    "entradilla": "Un formato más pausado para compartir una idea, una referencia y una pregunta que acompañe la semana.",
+    "color_destacado": "#efe7db",
+    "secciones": [
+      {"titulo": "Para leer despacio", "texto": "Una recomendación breve y un enlace a su fuente original, con la atribución correspondiente."},
+      {"titulo": "Una idea que se queda", "texto": "Un párrafo editorial propio o correctamente atribuido, sin convertir la edición en una lista infinita."},
+      {"titulo": "Para probar", "texto": "Una invitación pequeña: salir a caminar, observar algo, anotar o conversar."},
+      {"titulo": "Pregunta final", "texto": "¿Qué te gustaría llevar contigo a la próxima semana?"}
+    ],
+    "aviso": "Un formato adaptable a una comunidad, una marca editorial o una persona."
+  }
+}
