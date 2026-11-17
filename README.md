@@ -71,3 +71,7 @@ No necesita instalación ni dependencias. Abre [`dist/index.html`](dist/index.ht
 - Crear las primeras piezas con fuentes y permisos comprobados.
 
 Consulta el [catálogo de newsletters](documentacion/CATALOGO-DE-NEWSLETTERS.md), la [guía de activos](documentacion/ASSETS-Y-PUBLICACION.md) y el [generador](generador-boletines/README.md) antes de publicar.
+
+## Enseñarla con Netlify
+
+La carpeta que se publica es `dist/`. Para compartir una versión rápidamente, arrastra esa carpeta a [Netlify Drop](https://app.netlify.com/drop). Consulta la [guía para Netlify](documentacion/PUBLICAR-EN-NETLIFY.md) para los pasos y para conectar GitHub más adelante.
