@@ -1,6 +1,6 @@
 # Preparar la publicación de la web
 
-La web está terminada como presentación estática: servicios, proceso, seis muestras, preguntas frecuentes y kit visual. Antes de hacerla pública, completa esta lista.
+La web está terminada como presentación estática: servicios, proceso, nueve muestras, preguntas frecuentes y kit visual. Antes de hacerla pública, completa esta lista.
 
 ## Datos que deben ser reales
 

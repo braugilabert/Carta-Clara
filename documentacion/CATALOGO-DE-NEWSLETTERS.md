@@ -1,14 +1,14 @@
 # Catálogo de formatos de newsletter
 
-Las seis muestras de este repositorio enseñan la variedad de Carta Clara. Son prototipos: cada edición real debe acordar audiencia, fuentes, responsable de revisión, frecuencia y objetivo.
+Las nueve muestras de este repositorio enseñan la variedad de Carta Clara. Son prototipos: cada edición real debe acordar audiencia, fuentes, responsable de revisión, frecuencia y objetivo.
 
-## 1. Radar — novedades que conviene entender
+## 1. Al día — noticias para estar actualizado
 
-**Para:** profesionales, asociaciones o despachos especializados.
+**Para:** personas, asociaciones, comunidades o proyectos que quieren seguir una zona, una temática o un enfoque editorial concreto.
 
-**Estructura:** una novedad, por qué importa, enlace a la fuente y una pregunta o siguiente paso.
+**Estructura:** una noticia, por qué importa, fuentes originales y una pregunta para seguir el tema.
 
-**Frecuencia orientativa:** semanal o quincenal. Requiere revisión de una persona conocedora del sector antes de enviarla.
+**Enfoques posibles:** actualidad local, cultura, economía, medioambiente o una línea editorial progresista, conservadora u otra previamente acordada. Diferenciar siempre información, análisis y opinión.
 
 ## 2. Aula — aprende sin salir de la conversación
 
@@ -16,15 +16,11 @@ Las seis muestras de este repositorio enseñan la variedad de Carta Clara. Son p
 
 **Estructura:** una explicación pequeña, ejemplos, un reto y una invitación a la siguiente clase.
 
-**Frecuencia orientativa:** semanal. No pretende sustituir las clases ni evaluación docente.
-
 ## 3. Entrena — una idea que sí cabe en la semana
 
 **Para:** entrenadores, centros deportivos, clubes y personas que siguen una rutina.
 
-**Estructura:** intención de la semana, propuesta de entrenamiento, ajuste y recordatorio de recuperación.
-
-**Frecuencia orientativa:** semanal. El contenido debe ser revisado por profesionales cualificados; no es consejo médico individual.
+**Estructura:** intención de la semana, propuesta de entrenamiento, ajuste y recordatorio de recuperación. Debe ser revisado por profesionales cualificados.
 
 ## 4. Idioma en marcha — practicar sin abrumarse
 
@@ -32,15 +28,11 @@ Las seis muestras de este repositorio enseñan la variedad de Carta Clara. Son p
 
 **Estructura:** expresión útil, contexto, tres ejemplos, microreto y recurso.
 
-**Frecuencia orientativa:** dos veces por semana o semanal.
-
 ## 5. Equipo al día — una lectura compartida
 
 **Para:** pymes, cooperativas, estudios y equipos remotos.
 
-**Estructura:** una prioridad, una decisión, un reconocimiento y una cita de agenda.
-
-**Frecuencia orientativa:** semanal. No incluir información confidencial en una herramienta o lista no autorizada.
+**Estructura:** una prioridad, una decisión, noticias del sector o relacionadas con la empresa, un reconocimiento y una cita de agenda.
 
 ## 6. Pausa — curiosidad con espacio para respirar
 
@@ -48,14 +40,34 @@ Las seis muestras de este repositorio enseñan la variedad de Carta Clara. Son p
 
 **Estructura:** una lectura, una idea, una recomendación y una pregunta tranquila.
 
-**Frecuencia orientativa:** quincenal o mensual.
+## 7. Comer bien — recetas y temporada sin complicarse
+
+**Para:** comunidades culinarias, tiendas, cocineros, proyectos de alimentación y personas interesadas en comer mejor.
+
+**Estructura:** un ingrediente de temporada, receta, compra o aprovechamiento y reto práctico. No sustituye consejo nutricional individual.
+
+## 8. Huerto en marcha — cultivar al ritmo de la temporada
+
+**Para:** huertos urbanos, cooperativas, agricultores a pequeña escala, viveros y comunidades rurales.
+
+**Estructura:** tarea semanal, planta protagonista, señales para observar y calendario. Adaptar siempre las recomendaciones a clima, suelo y zona.
+
+## 9. Rumbo profesional — buscar empleo con foco
+
+**Para:** personas que buscan empleo en una ciudad, sector o tipo de puesto concreto.
+
+**Estructura:** oportunidades seleccionadas, contexto sectorial, consejo de candidatura y un paso pequeño. Las vacantes deben enlazar a su fuente original y revisarse antes de solicitar.
 
 ## Matriz de decisión
 
 | Si quieres… | Formato que encaja |
 | --- | --- |
-| Mantener a clientes o miembros al tanto | Radar |
+| Seguir noticias de un lugar, tema o línea editorial | Al día |
+| Mantener a clientes o miembros al tanto | Al día o Equipo al día |
 | Activar el aprendizaje entre clases | Aula o Idioma en marcha |
 | Acompañar una rutina con criterio | Entrena |
-| Coordinar sin añadir reuniones | Equipo al día |
+| Coordinar y compartir novedades del sector | Equipo al día |
 | Construir una relación editorial más pausada | Pausa |
+| Compartir recetas, temporada y cocina cotidiana | Comer bien |
+| Acompañar un huerto o una comunidad agrícola | Huerto en marcha |
+| Reunir oportunidades para un objetivo laboral | Rumbo profesional |

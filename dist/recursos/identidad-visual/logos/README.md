@@ -4,10 +4,10 @@ Todos los archivos son SVG sobre fondo transparente: se pueden abrir, editar y e
 
 | Archivo | Idea |
 | --- | --- |
-| `01-logotipo-actual.svg` | Versión principal negra, corregida para coincidir con el logotipo de la web. |
+| `01-logotipo-actual.svg` | Versión principal negra, sin subtítulo. |
 | `01-logotipo-actual-negro.svg` | Copia explícita de la versión negra para usos sobre fondos claros. |
 | `01-logotipo-actual-blanco.svg` | Versión blanca para fondos oscuros; el punto permanece azul `#0d6c74`. |
-| `02-logotipo-sello.svg` | Una versión con símbolo circular; útil para avatar y piezas más institucionales. |
+| `02-logotipo-sello.svg` | Símbolo circular `c.` azul sobre blanco; útil como avatar y favicon. |
 | `03-logotipo-sobre.svg` | Una versión con un pequeño sobre; hace visible la relación con la newsletter. |
 | `04-logotipo-editorial.svg` | Más serif y editorial, pensada para una portada o cabecera de newsletter. |
 | `05-logotipo-subrayado.svg` | Una versión cálida y expresiva con subrayado; funciona bien en redes. |

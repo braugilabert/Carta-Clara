@@ -11,12 +11,12 @@ Este repositorio reúne la web de presentación, ejemplos de newsletters, piezas
 ## Qué incluye
 
 - Una landing y galería de muestras en [`dist/`](dist/).
-- Seis conceptos de newsletter en [`plantillas-boletines/modelos/`](plantillas-boletines/modelos/).
+- Nueve conceptos de newsletter en [`plantillas-boletines/modelos/`](plantillas-boletines/modelos/).
 - Creatividades editables y sus PNG finales en [`dist/recursos/redes-sociales/`](dist/recursos/redes-sociales/).
 - Capturas PNG ya exportadas junto a cada SVG, listas para revisar antes de publicar.
 - Textos de publicaciones y guiones breves en [`contenido-redes/publicaciones/`](contenido-redes/publicaciones/).
 - Guía de tono, uso visual y publicación en [`documentacion/`](documentacion/).
-- Código sin dependencias para generar las seis newsletters en [`generador-boletines/`](generador-boletines/).
+- Código sin dependencias para generar las nueve newsletters en [`generador-boletines/`](generador-boletines/).
 
 ## Abrir la web localmente
 
@@ -26,12 +26,15 @@ No necesita instalación ni dependencias. Abre [`dist/index.html`](dist/index.ht
 
 | Concepto | Para quién | Promesa editorial |
 | --- | --- | --- |
-| Radar | Profesionales | Las novedades de un sector, con contexto y fuentes. |
+| Al día | Personas que quieren estar actualizadas | Noticias de una zona, una temática o un enfoque editorial con fuentes. |
 | Aula | Academias y docentes | Una pequeña lección, práctica y motivación semanal. |
 | Entrena | Deportistas y centros | Una pauta útil para entrenar con intención. |
 | Idioma en marcha | Estudiantes | Una idea de idioma que se pueda practicar en minutos. |
 | Equipo al día | Pequeñas empresas | Información interna que conecta sin saturar. |
 | Pausa | Personas curiosas | Lecturas y hábitos para bajar el ritmo sin perder el hilo. |
+| Comer bien | Personas que disfrutan cocinar | Recetas, temporada y compra cotidiana con más intención. |
+| Huerto en marcha | Huertos y agricultura a pequeña escala | Tareas, plantas y calendario de cultivo. |
+| Rumbo profesional | Personas que buscan empleo | Ofertas, recursos y pasos de candidatura para un objetivo concreto. |
 
 ## Publicación
 
@@ -46,7 +49,7 @@ No necesita instalación ni dependencias. Abre [`dist/index.html`](dist/index.ht
 .
 ├── contenido-redes/             # Copies, llamadas a la acción y guiones
 ├── documentacion/               # Marca, catálogo y guía de publicación
-├── generador-boletines/         # Código que crea las seis newsletters HTML
+├── generador-boletines/         # Código que crea las nueve newsletters HTML
 ├── plantillas-boletines/        # Estructuras editoriales de cada modelo
 └── dist/                        # Carpeta técnica que publica el hosting
     └── recursos/redes-sociales/ # SVG editables y PNG finales para redes

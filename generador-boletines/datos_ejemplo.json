@@ -1,17 +1,18 @@
 {
-  "radar": {
-    "nombre": "Radar",
-    "etiqueta": "Para profesionales",
-    "asunto": "Tres cambios que conviene entender esta semana",
-    "entradilla": "Una muestra ficticia de cómo una newsletter puede resumir una novedad sin perder el contexto.",
+  "al_dia": {
+    "nombre": "Al día",
+    "etiqueta": "Para actualizados",
+    "asunto": "Las noticias que importan para ti esta semana",
+    "entradilla": "Una muestra ficticia para seguir la actualidad de un lugar, una temática o una mirada editorial concreta.",
     "color_destacado": "#d7f2a1",
+    "color_punto": "#25232b",
     "secciones": [
-      {"titulo": "La novedad", "texto": "Aquí iría una explicación breve de una actualización, escrita con palabras claras y enlazada a su fuente original."},
-      {"titulo": "Por qué importa", "texto": "La pieza no se limita a recopilar. Sitúa lo relevante y deja claro lo que todavía no se sabe."},
-      {"titulo": "Para profundizar", "texto": "Enlace a la fuente, documento u organismo original."},
-      {"titulo": "Una pregunta útil", "texto": "¿Qué conversación debería abrir este cambio en tu equipo o con tus clientes?"}
+      {"titulo": "En tu zona o sobre tu tema", "texto": "Una noticia local, cultural, económica, ambiental o sectorial explicada con palabras claras."},
+      {"titulo": "Por qué merece atención", "texto": "La edición sitúa lo relevante y deja claro lo que todavía no se sabe."},
+      {"titulo": "Más miradas", "texto": "Fuentes originales y enfoques acordados: progresista, conservador o temático, siempre distinguiendo opinión e información."},
+      {"titulo": "Para seguir el tema", "texto": "¿Qué fuente o tema te gustaría entender mejor en la próxima edición?"}
     ],
-    "aviso": "Las fuentes y la revisión profesional se definirían en un proyecto real."
+    "aviso": "Las fuentes, atribución y enfoque editorial se definirían en un proyecto real."
   },
   "aula": {
     "nombre": "Aula",
@@ -19,6 +20,7 @@
     "asunto": "Una idea pequeña para seguir aprendiendo",
     "entradilla": "Una muestra de newsletter para mantener activa la conversación entre una clase y la siguiente.",
     "color_destacado": "#e6ddfa",
+    "color_punto": "#6645b4",
     "secciones": [
       {"titulo": "La idea de hoy", "texto": "Explica un concepto en pocas líneas: suficiente para despertar curiosidad, no para sustituir una lección completa."},
       {"titulo": "Tres ejemplos", "texto": "Un caso sencillo, un caso cotidiano y un error frecuente con su explicación."},
@@ -33,6 +35,7 @@
     "asunto": "Esta semana: menos prisa y más técnica",
     "entradilla": "Una pauta editorial para acompañar la rutina y recordar que recuperar también forma parte.",
     "color_destacado": "#d7f2a1",
+    "color_punto": "#d7f2a1",
     "secciones": [
       {"titulo": "Intención", "texto": "Una frase clara sobre el foco de la semana y sobre qué queremos priorizar en el entrenamiento."},
       {"titulo": "Propuesta", "texto": "Una sesión o pauta general revisada por la persona profesional responsable."},
@@ -47,6 +50,7 @@
     "asunto": "Una expresión que puedes usar hoy",
     "entradilla": "Aprender un idioma también puede caber en un correo que se lee en pocos minutos.",
     "color_destacado": "#ffd9b8",
+    "color_punto": "#0d6c74",
     "secciones": [
       {"titulo": "Expresión", "texto": "How does that sound? Una frase útil para proponer algo y pedir una reacción."},
       {"titulo": "Cuándo usarla", "texto": "Al plantear un plan, una idea de trabajo o una alternativa a otra persona."},
@@ -61,13 +65,60 @@
     "asunto": "Lo importante de la semana, en cuatro minutos",
     "entradilla": "Un ejemplo de lectura compartida para ordenar decisiones y próximos pasos sin ocupar el chat.",
     "color_destacado": "#cce9e8",
+    "color_punto": "#0d6c74",
     "secciones": [
       {"titulo": "Una prioridad", "texto": "Qué está centrando el trabajo del equipo y por qué merece atención esta semana."},
       {"titulo": "Una decisión", "texto": "Qué se ha acordado, quién se responsabiliza y dónde ampliar la información."},
+      {"titulo": "Lo que pasa fuera", "texto": "Noticias del sector o asuntos relacionados con la empresa: clientes, mercado, tecnología, normativa o comunidad."},
       {"titulo": "Un reconocimiento", "texto": "Un agradecimiento concreto y autorizado a una persona o colaboración."},
       {"titulo": "En la agenda", "texto": "Fechas, hitos o recordatorios útiles en los canales internos aprobados."}
     ],
     "aviso": "No incluir información confidencial en listas, canales o herramientas no autorizadas."
+  },
+  "comer_bien": {
+    "nombre": "Comer bien",
+    "etiqueta": "Para cocinar con calma",
+    "asunto": "Una idea rica y sencilla para comer mejor esta semana",
+    "entradilla": "Una muestra de newsletter sobre comida saludable, recetas cotidianas y compras que aprovechan la temporada.",
+    "color_destacado": "#f6d2a5",
+    "color_punto": "#0d6c74",
+    "secciones": [
+      {"titulo": "En temporada", "texto": "Un ingrediente, su mejor momento y una forma sencilla de aprovecharlo."},
+      {"titulo": "La receta de la semana", "texto": "Una propuesta cotidiana con ingredientes claros y pasos que se puedan seguir sin complicarse."},
+      {"titulo": "Compra con calma", "texto": "Una sugerencia para planificar, conservar o aprovechar alimentos sin desperdicio."},
+      {"titulo": "Para probar", "texto": "¿Qué verdura, legumbre o receta te gustaría volver a cocinar?"}
+    ],
+    "aviso": "No sustituye el consejo de una persona profesional de nutrición ni necesidades médicas individuales."
+  },
+  "huerto": {
+    "nombre": "Huerto en marcha",
+    "etiqueta": "Para cultivar",
+    "asunto": "Qué cuidar en el huerto esta semana",
+    "entradilla": "Una muestra de newsletter de huerto, agricultura a pequeña escala y calendario de temporada.",
+    "color_destacado": "#cce4b4",
+    "color_punto": "#0d6c74",
+    "secciones": [
+      {"titulo": "Ahora en el huerto", "texto": "Una tarea de temporada: sembrar, trasplantar, acolchar, regar o simplemente observar."},
+      {"titulo": "La planta protagonista", "texto": "Consejos de cultivo sencillos, adaptables según el clima, el suelo y la zona."},
+      {"titulo": "Señales para mirar", "texto": "Una plaga, una carencia o un indicio útil explicado sin alarmismo."},
+      {"titulo": "Calendario vivo", "texto": "Una fecha o recordatorio para no perder el ritmo de la temporada."}
+    ],
+    "aviso": "Adapta las recomendaciones al clima, normativa y fuentes agrarias de tu zona."
+  },
+  "rumbo_profesional": {
+    "nombre": "Rumbo profesional",
+    "etiqueta": "Para buscar empleo",
+    "asunto": "Oportunidades y un paso práctico para tu búsqueda",
+    "entradilla": "Una muestra de newsletter para seguir ofertas y recursos del sector, ciudad o tipo de trabajo que te interesa.",
+    "color_destacado": "#bfe1ed",
+    "color_punto": "#0d6c74",
+    "secciones": [
+      {"titulo": "Puestos para mirar", "texto": "Una selección limitada de ofertas con enlace al anuncio original, fecha de consulta y ubicación o modalidad."},
+      {"titulo": "Un sector en foco", "texto": "Una idea sobre habilidades, tendencias o empresas que puede ayudar a orientar la búsqueda."},
+      {"titulo": "Mejora tu candidatura", "texto": "Un consejo concreto sobre currículo, portfolio, entrevista o contactos profesionales."},
+      {"titulo": "Pequeño paso de la semana", "texto": "Actualizar una línea del CV, contactar con alguien o guardar tres empresas de interés."}
+    ],
+    "aviso": "Comprobar siempre la oferta en la fuente original antes de solicitarla."
   },
   "pausa": {
     "nombre": "Pausa",
@@ -75,6 +126,7 @@
     "asunto": "Una lectura para guardar un poco de espacio",
     "entradilla": "Un formato más pausado para compartir una idea, una referencia y una pregunta que acompañe la semana.",
     "color_destacado": "#efe7db",
+    "color_punto": "#6645b4",
     "secciones": [
       {"titulo": "Para leer despacio", "texto": "Una recomendación breve y un enlace a su fuente original, con la atribución correspondiente."},
       {"titulo": "Una idea que se queda", "texto": "Un párrafo editorial propio o correctamente atribuido, sin convertir la edición en una lista infinita."},

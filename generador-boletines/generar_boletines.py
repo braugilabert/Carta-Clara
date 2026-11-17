@@ -1,4 +1,4 @@
-"""Genera los seis boletines de muestra de Carta Clara como archivos HTML."""
+"""Genera los nueve boletines de muestra de Carta Clara como archivos HTML."""
 
 from __future__ import annotations
 
@@ -41,7 +41,7 @@ def construir_html(clave: str, modelo: dict) -> str:
 <body style="margin:0;background:#f3f0ec;color:#25232b;">
   <table role="presentation" width="100%" cellspacing="0" cellpadding="0" style="background:#f3f0ec;"><tr><td style="padding:30px 12px;">
     <table role="presentation" width="100%" cellspacing="0" cellpadding="0" style="max-width:640px;margin:auto;background:#ffffff;border-radius:16px;overflow:hidden;">
-      <tr><td style="padding:24px 30px;border-bottom:1px solid #e8e3ea;font:700 18px Arial,sans-serif;">carta<span style="color:#6645b4;">.</span> clara <span style="float:right;font-size:11px;letter-spacing:1px;">{escapar(clave.upper())} · MUESTRA</span></td></tr>
+      <tr><td style="padding:24px 30px;border-bottom:1px solid #e8e3ea;font:700 18px Arial,sans-serif;">carta<span style="color:{escapar(modelo['color_punto'])};">.</span> clara <span style="float:right;font-size:11px;letter-spacing:1px;">{escapar(clave.upper())} · MUESTRA</span></td></tr>
       <tr><td style="padding:42px 30px 24px;"><p style="font:700 12px Arial,sans-serif;letter-spacing:1.5px;text-transform:uppercase;color:#6645b4;margin:0 0 13px;">{escapar(modelo['etiqueta'])}</p><h1 style="font:400 43px/1.05 Georgia,serif;letter-spacing:-1.3px;margin:0 0 18px;">{escapar(modelo['asunto'])}</h1><p style="font:18px/1.55 Arial,sans-serif;color:#625c67;margin:0;">{escapar(modelo['entradilla'])}</p></td></tr>
       <tr><td style="padding:0 30px 36px;"><table role="presentation" width="100%" cellspacing="0" cellpadding="0">{bloques}</table>
         <div style="background:{escapar(modelo['color_destacado'])};border-radius:12px;padding:18px 20px;font:14px/1.5 Arial,sans-serif;">Ejemplo demostrativo: adapta las fuentes, enlaces y llamadas a la acción antes de enviar.</div>
@@ -69,7 +69,7 @@ def generar(modelos: dict[str, dict], carpeta_salida: Path, tipo: str | None) ->
 
 def argumentos() -> argparse.Namespace:
     analizador = argparse.ArgumentParser(description="Genera boletines HTML de Carta Clara.")
-    analizador.add_argument("--tipo", help="Genera solo un tipo: radar, aula, entrena, idioma, equipo o pausa.")
+    analizador.add_argument("--tipo", help="Genera solo uno de los tipos mostrados con --listar.")
     analizador.add_argument("--carpeta-salida", type=Path, default=CARPETA_SALIDA_PREDETERMINADA, help="Carpeta donde se guardarán los HTML.")
     analizador.add_argument("--listar", action="store_true", help="Muestra los modelos disponibles y termina.")
     return analizador.parse_args()

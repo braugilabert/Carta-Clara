@@ -14,8 +14,8 @@
 
 | Carpeta | Contenido | Tamaño de mesa de trabajo |
 | --- | --- | --- |
-| `dist/recursos/redes-sociales/instagram/` | 6 portadas de carrusel/reel en SVG y PNG | 1080 × 1350 |
-| `dist/recursos/redes-sociales/youtube/` | 6 miniaturas de vídeo en SVG y PNG | 1280 × 720 |
+| `dist/recursos/redes-sociales/instagram/` | 9 portadas de carrusel/reel en SVG y PNG | 1080 × 1350 |
+| `dist/recursos/redes-sociales/youtube/` | 9 miniaturas de vídeo en SVG y PNG | 1280 × 720 |
 | `dist/recursos/sitio-web/` | composiciones y capturas de la web | SVG y PNG |
 
 Los archivos son SVG para conservar el texto nítido y editable. Antes de publicar, exportar a PNG (Instagram) o JPG/PNG (YouTube).
@@ -31,4 +31,4 @@ Los archivos son SVG para conservar el texto nítido y editable. Antes de public
 
 ## Convenciones de nombres
 
-`01-radar`, `02-aula`, `03-entrena`, `04-idioma`, `05-equipo`, `06-pausa` mantienen el mismo orden en web, Instagram y YouTube.
+`01-al-dia`, `02-aula`, `03-entrena`, `04-idioma`, `05-equipo`, `06-pausa`, `07-comer-bien`, `08-huerto-en-marcha` y `09-rumbo-profesional` mantienen el mismo orden en web, Instagram y YouTube.
