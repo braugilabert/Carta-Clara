@@ -1,0 +1,3 @@
+# Formato: Titular | Explicación breve
+Por qué los textos cortos se recuerdan mejor | La memoria de trabajo retiene con facilidad entre 3 y 4 bloques de información agrupados por sentido; dividir una explicación en idea, ejemplos y práctica aprovecha exactamente ese límite cognitivo.
+El origen de la palabra «boletín» | Proviene del italiano "bollettino" (diminutivo de "bolla", sello oficial), usado en el siglo XVII para las hojas breves que resumían avisos y noticias de la semana.

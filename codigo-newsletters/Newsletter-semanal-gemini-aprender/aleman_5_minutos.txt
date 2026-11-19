@@ -1,0 +1,8 @@
+# Formato: TÍTULO | ... / IDEA | ... / EJEMPLO_1..3 | ... / RETO | ... / RESPUESTA | ...
+TÍTULO | El verbo siempre en segunda posición (V2)
+IDEA | En las oraciones principales en alemán, el verbo conjugado ocupa siempre la segunda posición gramatical, aunque empieces la frase con el tiempo o el lugar.
+EJEMPLO_1 | Un caso sencillo: Ich lerne heute Deutsch. (Sujeto + verbo en 2.ª posición).
+EJEMPLO_2 | Un caso cotidiano: Heute lerne ich Deutsch. (Tiempo en 1.ª + verbo en 2.ª + sujeto en 3.ª).
+EJEMPLO_3 | Un error frecuente y cómo evitarlo: escribir "Heute ich lerne Deutsch"; recuerda que el verbo va justo detrás del primer bloque.
+RETO | Ordena esta frase empezando por "Morgen": ich / arbeite / morgen / im Büro.
+RESPUESTA | Morgen arbeite ich im Büro.

@@ -1,0 +1,31 @@
+# Bloques semanales con la estructura:
+# CATEGORIA | ...
+# TITULO | ...
+# SUBTITULO | ...
+# IDEA | ...
+# EJEMPLO_1 | ...
+# EJEMPLO_2 | ...
+# EJEMPLO_3 | ...
+# RETO | ...
+# SOLUCION | ... (opcional)
+
+CATEGORIA | PARA ACADEMIAS
+TITULO | Una idea pequeña para seguir aprendiendo.
+SUBTITULO | Una muestra de newsletter para mantener activa la conversación entre una clase y la siguiente.
+IDEA | Explica un concepto en pocas líneas: suficiente para despertar curiosidad, no para sustituir una lección completa. Cuando una idea cabe en tres minutos de lectura, se recuerda mejor y se aplica antes.
+EJEMPLO_1 | Un caso sencillo: resume en una frase qué problema resuelve una norma antes de citar el artículo.
+EJEMPLO_2 | Un caso cotidiano: compara el consentimiento en el RGPD con pedir permiso antes de entrar en una habitación.
+EJEMPLO_3 | Un error frecuente y cómo evitarlo: confundir propiedad intelectual (obras) con propiedad industrial (marcas y patentes); piensa siempre si proteges una creación artística o un signo comercial.
+RETO | Propón una práctica corta que no necesite materiales ni preparación extra: elige una noticia de hoy y resúmela en exactamente 20 palabras.
+SOLUCION | Ejemplo: "La agencia europea actualiza sus criterios sobre inteligencia artificial y privacidad para reforzar la transparencia en modelos generativos."
+
+---
+
+CATEGORIA | LECTURA CRÍTICA Y DERECHO
+TITULO | Cómo detectar lo esencial de una resolución en dos minutos.
+SUBTITULO | Guía rápida para no perderse entre antecedentes y fundamentos jurídicos.
+IDEA | Toda resolución o noticia jurídica responde a tres preguntas: qué ocurrió, qué norma se aplica y qué consecuencia práctica tiene. Identificar ese triángulo evita leer en círculo.
+EJEMPLO_1 | Un caso sencillo: una empresa recibe una sanción por enviar correos comerciales sin consentimiento previo (LSSI y RGPD).
+EJEMPLO_2 | Un caso cotidiano: aceptar cookies sin opción visible de rechazo equivale a un consentimiento viciado.
+EJEMPLO_3 | Un error frecuente y cómo evitarlo: quedarse solo con la cuantía de la multa sin mirar qué medida correctiva exige la autoridad.
+RETO | Lee uno de los titulares de hoy y escribe en una línea cuál es el hecho, la norma y la consecuencia.
