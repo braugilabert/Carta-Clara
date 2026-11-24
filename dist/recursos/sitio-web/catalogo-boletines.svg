@@ -1,1 +1,63 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="760" viewBox="0 0 1440 760"><rect width="1440" height="760" fill="#f7f4ee"/><text x="70" y="100" fill="#25232b" font-family="Georgia" font-size="66">Seis formas de llegar a tiempo.</text><g font-family="Arial" font-size="25" font-weight="700" fill="#25232b"><rect x="70" y="185" width="390" height="210" rx="24" fill="#d7f2a1"/><text x="102" y="250">01 / RADAR</text><text x="102" y="337" font-family="Georgia" font-size="52">Con contexto.</text><rect x="525" y="185" width="390" height="210" rx="24" fill="#e6ddfa"/><text x="557" y="250">02 / AULA</text><text x="557" y="337" font-family="Georgia" font-size="52">Sin agobio.</text><rect x="980" y="185" width="390" height="210" rx="24" fill="#25232b"/><text x="1012" y="250" fill="white">03 / ENTRENA</text><text x="1012" y="337" font-family="Georgia" font-size="52" fill="white">Con intención.</text><rect x="70" y="450" width="390" height="210" rx="24" fill="#ffd9b8"/><text x="102" y="515">04 / IDIOMA</text><text x="102" y="602" font-family="Georgia" font-size="52">En marcha.</text><rect x="525" y="450" width="390" height="210" rx="24" fill="#cce9e8"/><text x="557" y="515">05 / EQUIPO</text><text x="557" y="602" font-family="Georgia" font-size="52">Al día.</text><rect x="980" y="450" width="390" height="210" rx="24" fill="#efe7db"/><text x="1012" y="515">06 / PAUSA</text><text x="1012" y="602" font-family="Georgia" font-size="52">Para volver.</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1020" viewBox="0 0 1440 1020" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Catálogo de nueve newsletters de Carta Clara</title>
+  <desc id="descripcion">Nueve formatos de newsletter: Al día, Aula, Entrena, Idioma en marcha, Equipo al día, Pausa, Comer bien, Huerto en marcha y Rumbo profesional.</desc>
+  <rect width="1440" height="1020" fill="#f7f4ee"/>
+  <text x="70" y="102" fill="#25232b" font-family="Georgia, serif" font-size="59" font-weight="700">Nueve formas de llegar a tiempo.</text>
+  <text x="72" y="143" fill="#65616a" font-family="Arial, Helvetica, sans-serif" font-size="20">Un formato editorial para cada conversación que merece continuidad.</text>
+
+  <g>
+    <rect x="70" y="190" width="390" height="218" rx="28" fill="#25232b"/>
+    <text x="103" y="238" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="1.4">01 / AL DÍA</text>
+    <rect x="103" y="266" width="12" height="12" fill="#0d6c74"/>
+    <text x="103" y="334" fill="#ffffff" font-family="Georgia, serif" font-size="42" font-weight="700">Noticias con</text>
+    <text x="103" y="380" fill="#ffffff" font-family="Georgia, serif" font-size="42" font-weight="700">contexto.</text>
+
+    <rect x="525" y="190" width="390" height="218" rx="28" fill="#e6ddfa"/>
+    <text x="558" y="238" fill="#25232b" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="1.4">02 / AULA</text>
+    <rect x="558" y="266" width="12" height="12" fill="#25232b"/>
+    <text x="558" y="334" fill="#25232b" font-family="Georgia, serif" font-size="42" font-weight="700">Aprender sin</text>
+    <text x="558" y="380" fill="#25232b" font-family="Georgia, serif" font-size="42" font-weight="700">agobio.</text>
+
+    <rect x="980" y="190" width="390" height="218" rx="28" fill="#d7f2a1"/>
+    <text x="1013" y="238" fill="#25232b" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="1.4">03 / ENTRENA</text>
+    <rect x="1013" y="266" width="12" height="12" fill="#25232b"/>
+    <text x="1013" y="334" fill="#25232b" font-family="Georgia, serif" font-size="42" font-weight="700">Entrenar con</text>
+    <text x="1013" y="380" fill="#25232b" font-family="Georgia, serif" font-size="42" font-weight="700">intención.</text>
+
+    <rect x="70" y="456" width="390" height="218" rx="28" fill="#ffd9b8"/>
+    <text x="103" y="504" fill="#25232b" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="1.4">04 / IDIOMA</text>
+    <rect x="103" y="532" width="12" height="12" fill="#0d6c74"/>
+    <text x="103" y="600" fill="#25232b" font-family="Georgia, serif" font-size="42" font-weight="700">Un idioma en</text>
+    <text x="103" y="646" fill="#25232b" font-family="Georgia, serif" font-size="42" font-weight="700">marcha.</text>
+
+    <rect x="525" y="456" width="390" height="218" rx="28" fill="#cce9e8"/>
+    <text x="558" y="504" fill="#25232b" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="1.4">05 / EQUIPO</text>
+    <rect x="558" y="532" width="12" height="12" fill="#0d6c74"/>
+    <text x="558" y="600" fill="#25232b" font-family="Georgia, serif" font-size="42" font-weight="700">Una lectura</text>
+    <text x="558" y="646" fill="#25232b" font-family="Georgia, serif" font-size="42" font-weight="700">compartida.</text>
+
+    <rect x="980" y="456" width="390" height="218" rx="28" fill="#efe7db"/>
+    <text x="1013" y="504" fill="#25232b" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="1.4">06 / PAUSA</text>
+    <rect x="1013" y="532" width="12" height="12" fill="#0d6c74"/>
+    <text x="1013" y="600" fill="#25232b" font-family="Georgia, serif" font-size="42" font-weight="700">Un poco de</text>
+    <text x="1013" y="646" fill="#25232b" font-family="Georgia, serif" font-size="42" font-weight="700">pausa.</text>
+
+    <rect x="70" y="722" width="390" height="218" rx="28" fill="#f6d2a5"/>
+    <text x="103" y="770" fill="#25232b" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="1.4">07 / COMER BIEN</text>
+    <rect x="103" y="798" width="12" height="12" fill="#0d6c74"/>
+    <text x="103" y="866" fill="#25232b" font-family="Georgia, serif" font-size="42" font-weight="700">Comer bien sin</text>
+    <text x="103" y="912" fill="#25232b" font-family="Georgia, serif" font-size="42" font-weight="700">complicarse.</text>
+
+    <rect x="525" y="722" width="390" height="218" rx="28" fill="#cce4b4"/>
+    <text x="558" y="770" fill="#25232b" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="1.4">08 / HUERTO</text>
+    <rect x="558" y="798" width="12" height="12" fill="#0d6c74"/>
+    <text x="558" y="866" fill="#25232b" font-family="Georgia, serif" font-size="42" font-weight="700">El huerto en</text>
+    <text x="558" y="912" fill="#25232b" font-family="Georgia, serif" font-size="42" font-weight="700">marcha.</text>
+
+    <rect x="980" y="722" width="390" height="218" rx="28" fill="#bfe1ed"/>
+    <text x="1013" y="770" fill="#25232b" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="1.1">09 / RUMBO PROFESIONAL</text>
+    <rect x="1013" y="798" width="12" height="12" fill="#0d6c74"/>
+    <text x="1013" y="866" fill="#25232b" font-family="Georgia, serif" font-size="42" font-weight="700">Buscar empleo</text>
+    <text x="1013" y="912" fill="#25232b" font-family="Georgia, serif" font-size="42" font-weight="700">con rumbo.</text>
+  </g>
+</svg>

@@ -16,7 +16,6 @@ Este repositorio reúne la web de presentación, ejemplos de newsletters, piezas
 - Capturas PNG ya exportadas junto a cada SVG, listas para revisar antes de publicar.
 - Textos de publicaciones y guiones breves en [`contenido-redes/publicaciones/`](contenido-redes/publicaciones/).
 - Guía de tono, uso visual y publicación en [`documentacion/`](documentacion/).
-- Código sin dependencias para generar las nueve newsletters en [`generador-boletines/`](generador-boletines/).
 
 ## Abrir la web localmente
 
@@ -49,7 +48,6 @@ No necesita instalación ni dependencias. Abre [`dist/index.html`](dist/index.ht
 .
 ├── contenido-redes/             # Copies, llamadas a la acción y guiones
 ├── documentacion/               # Marca, catálogo y guía de publicación
-├── generador-boletines/         # Código que crea las nueve newsletters HTML
 ├── plantillas-boletines/        # Estructuras editoriales de cada modelo
 └── dist/                        # Carpeta técnica que publica el hosting
     └── recursos/redes-sociales/ # SVG editables y PNG finales para redes
@@ -70,7 +68,7 @@ No necesita instalación ni dependencias. Abre [`dist/index.html`](dist/index.ht
 - Registrar dominio y configurar un canal de contacto real.
 - Crear las primeras piezas con fuentes y permisos comprobados.
 
-Consulta el [catálogo de newsletters](documentacion/CATALOGO-DE-NEWSLETTERS.md), la [guía de activos](documentacion/ASSETS-Y-PUBLICACION.md) y el [generador](generador-boletines/README.md) antes de publicar.
+Consulta el [catálogo de newsletters](documentacion/CATALOGO-DE-NEWSLETTERS.md) y la [guía de activos](documentacion/ASSETS-Y-PUBLICACION.md) antes de publicar.
 
 ## Enseñarla con Netlify
 
